@@ -61,11 +61,11 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('📍 Update Channel', url='https://t.me/+6eDn6xs29i1mMWE0'),
+                InlineKeyboardButton('📍 Update Channel', url='https://t.me/STRIKERBOY_HACKING_LOT'),
             ],
             [
                 InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/Strikerboy350'),
-                InlineKeyboardButton('👥 Support Group', url='https://t.me/+CGtwxtB6nwplYjZk'),
+                InlineKeyboardButton('👥 Support Group', url='https://t.me/STRIKERBOY_SUPPORT'),
             ],
             [
                 InlineKeyboardButton('⛔️ Close', callback_data='cancel')
@@ -83,7 +83,7 @@ To upload a YouTube video, simply send me the YouTube link.
 
 Enjoy using the bot!
 
-©️ Channel : https://t.me/+6eDn6xs29i1mMWE0
+©️ Channel : @STRIKERBOY_HACKING_LOT
     """
     await message.reply_text(help_text)
 
