@@ -18,7 +18,7 @@ async def handle_force_subscribe(bot, message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=message.from_user.id,
-                text="Sorry Sir, You are Banned. Contact My [Support Group](https://t.me/+CGtwxtB6nwplYjZk).",
+                text="Sorry Sir, You are Banned. Contact My [Support Group](https://t.me/STRIKERBOY_SUPPORT).",
                 disable_web_page_preview=True,
             )
             return 400
@@ -39,7 +39,7 @@ async def handle_force_subscribe(bot, message):
     except Exception:
         await bot.send_message(
             chat_id=message.from_user.id,
-            text="Something Went Wrong. Contact My [Support Group](https://t.me/+CGtwxtB6nwplYjZk).",
+            text="Something Went Wrong. Contact My [Support Group](https://t.me/STRIKERBOY_SUPPORT).",
             disable_web_page_preview=True,
         )
         return 400
