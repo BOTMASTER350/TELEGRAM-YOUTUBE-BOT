@@ -50,14 +50,13 @@ thumbnail - generate video thumbnail 🌁
 date - check date and time 🕰️
 ```
 
-### BUY ME A COFFEE 🥹
-<a href="https://www.buymeacoffee.com/lisakorean" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 ### My Community Details
 
 
-- YouTube Channel : [Telegram Bots 🤖](https://youtube.com/@NTBOT?feature=shared)
-- Telegram Channel : [NT Bots ❤️‍🩹](https://t.me/NT_BOT_CHANNEL)
-- Telegram Group : [NT Bots Support 🎗️](https://t.me/NT_BOTS_SUPPORT)
-- URL Uploader Bot : [Uploader Bot 🚀](https://t.me/UploadLinkToFileBot)
-- Me : [Lisa 👑](https://t.me/LISA_FAN_LK)
+
+- Telegram Channel : [ STRIKERBOY WORLD HACKING LOT ❤️‍🩹](https://t.me/+6eDn6xs29i1mMWE0)
+- Telegram Group : [ STRIKERBOY Support CHANNEL 🎗️](https://t.me/+CGtwxtB6nwplYjZk)
+- URL Uploader Bot : [Uploader Bot 🚀](http://t.me/Strikerboy_YT_bot)
+- Me : [ STRIKERBOY 👑](https://t.me/Strikerboy350)
