@@ -4,12 +4,12 @@ class Translation(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├📛 **My Name** : [YouTube Video Uploader Bot](https://t.me/YouTubeUploaderOneBot)
+├📛 **My Name** : [STRIKERBOY YT Bot](http://t.me/Strikerboy_YT_bot)
 ├📢 **Framework** : [PyroFork 2.3.50](https://docs.pyrogram.org/)
 ├💮 **Language** : [Python 3.12.6](https://www.python.org)
-├👥 **Support Group** : [NT BOTS SUPPORT](https://t.me/NT_BOTS_SUPPORT)
-├🥏 **Channel** : [NT BOT CHANNEL](https://t.me/NT_BOT_CHANNEL)
-├⛲ **Source** : [Click Here](https://github.com/LISA-KOREA/YouTube-Video-Download-Bot)
-├🎓 **Developer** : [LISA 👑](https://t.me/LISA_FAN_LK)
+├👥 **Support Group** : [STRIKERBOY SUPPORT CHANNEL](https://t.me/+CGtwxtB6nwplYjZk)
+├🥏 **Channel** : [ STRIKERBOY WORLD  HACKING LOT CHANNEL](https://t.me/+6eDn6xs29i1mMWE0)
+├⛲ **Source** : [Click Here](https://github.com/BOTMASTER350/TELEGRAM-YOUTUBE-BOT)
+├🎓 **Developer** : [STRIKERBOY 👑](https://t.me/Strikerboy350)
 ╰───────────────⍟
 """
