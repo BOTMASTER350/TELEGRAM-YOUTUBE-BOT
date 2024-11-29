@@ -1,6 +1,5 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/YouTube-Video-Download-Bot
-
-# [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/YouTube-Video-Download-Bot
+# ©️ STRIKERBOY 
+# [⚠️ Do not change this repo link ⚠️] :- https://github.com/BOTMASTER350/TELEGRAM-YOUTUBE-BOT
 
 from pyrogram import Client, filters
 import yt_dlp
