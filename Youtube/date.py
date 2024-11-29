@@ -33,11 +33,12 @@ def date(client, message):
         "USA Mountain": 'America/Denver',
         "USA Pacific": 'America/Los_Angeles',
         "USA Alaska": 'America/Anchorage',
-        "USA Hawaii": 'Pacific/Honolulu'
+        "USA Hawaii": 'Pacific/Honolulu',
+        "Zimbabwe": 'Africa/Harare'
     }
 
     # Get the country from the message text if provided
-    country = "South Korea"  # Default to south korea
+    country = "Zimbabwe"  # Default to Zimbabwe
     if len(message.command) > 1:
         country = " ".join(message.command[1:])
     
