@@ -1,6 +1,6 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | LISA-KOREA/YouTube-Video-Download-Bot
+# ©️ STRIKERBOY
 
-# [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/YouTube-Video-Download-Bot
+# [⚠️ Do not change this repo link ⚠️] :- https://github.com/BOTMASTER350/TELEGRAM-YOUTUBE-BOT
 
 
 
@@ -26,7 +26,7 @@ else:
 
 
 
-########################🎊 Lisa | NT BOTS 🎊######################################################
+########################🎊 STRIKERBOY | BOTS 🎊######################################################
 @Client.on_callback_query(filters.regex("cancel"))
 async def cancel(client, callback_query):
     await callback_query.message.delete()
@@ -61,11 +61,11 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('📍 Update Channel', url='https://t.me/NT_BOT_CHANNEL'),
+                InlineKeyboardButton('📍 Update Channel', url='https://t.me/+6eDn6xs29i1mMWE0'),
             ],
             [
-                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/LISA_FAN_LK'),
-                InlineKeyboardButton('👥 Support Group', url='https://t.me/NT_BOTS_SUPPORT'),
+                InlineKeyboardButton('👩‍💻 Developer', url='https://t.me/Strikerboy350'),
+                InlineKeyboardButton('👥 Support Group', url='https://t.me/+CGtwxtB6nwplYjZk'),
             ],
             [
                 InlineKeyboardButton('⛔️ Close', callback_data='cancel')
@@ -77,15 +77,15 @@ async def start(client, message):
 @Client.on_message(filters.command("help"))
 async def help(client, message):
     help_text = """
-Welcome to the YouTube Video Uploader Bot!
+Welcome to the STRIKERBOY YouTube Video Uploader Bot!
 
 To upload a YouTube video, simply send me the YouTube link.
 
 Enjoy using the bot!
 
-©️ Channel : @NT_BOT_CHANNEL
+©️ Channel : https://t.me/+6eDn6xs29i1mMWE0
     """
     await message.reply_text(help_text)
 
 
-########################🎊 Lisa | NT BOTS 🎊######################################################
+########################🎊 STRIKERBOY | BOTS 🎊######################################################
